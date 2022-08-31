@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.translate {
+  translate: -24px 16px;
+}
+
